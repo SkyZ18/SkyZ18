@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am SkyZ, currently doing an apprenticeship as an `Software Engineer`.
 
+I work on Projects to widen my knowledge of Programming.
 
 Skills in Programming:
 
