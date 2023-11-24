@@ -16,4 +16,4 @@ Tools:
 [![My Skills](https://skillicons.dev/icons?i=docker,postgresql,idea,visualstudio,postman&theme=light)](https://skillicons.dev)
 
 
-Quote of the Day: **You can teach a man to fish, but you can't teach a fish to man**
+**Quote of the Day: You can teach a man to fish, but you can't teach a fish to man**
