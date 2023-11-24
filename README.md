@@ -5,4 +5,4 @@ Programming languages I am currently learning are: Java☕️ and C#.
 
 Frameworks I use / learning: Angular, Springboot, Ktor
 
-Quote of the Day: `You can teach a man to fish, but you can't teach a fish to man`
+Quote of the Day: **You can teach a man to fish, but you can't teach a fish to man**
