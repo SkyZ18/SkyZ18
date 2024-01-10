@@ -3,15 +3,15 @@ Hi there 👋, Started, and currently doing, an apprenticeship a an Software Eng
 
 # Skills
 
-Programming:
+## Programming:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,java,cs,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,java,cs,python,kotlin&theme=light)](https://skillicons.dev)
 
-Frameworks:
+## Frameworks:
 
 [![My Skills](https://skillicons.dev/icons?i=angular,vuejs,nodejs,spring,bootstrap,fastapi&theme=light)](https://skillicons.dev)
 
-Tools:
+## Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=docker,postgresql,idea,visualstudio,postman,stackoverflow&theme=light)](https://skillicons.dev)
 
