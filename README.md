@@ -9,7 +9,7 @@ Programming:
 
 Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,spring,bootstrap,fastapi&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,vuejs,nodejs,spring,bootstrap,fastapi&theme=light)](https://skillicons.dev)
 
 Tools:
 
