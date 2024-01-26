@@ -1,5 +1,5 @@
 # About
-Hi there 👋, Started, and currently doing, an apprenticeship a an Software Engineer in 2022. I am doing various Projects, to enhance my knowledge of Programming. My most used Language is Java together with Springboot. My Goal is to be a Fullstack Dev by the year 2026.
+Hi there 👋. I started, and currently doing, an apprenticeship as a Software Engineer in 2022. I am doing various Projects, to enhance my knowledge of Programming. My most used Language is Java together with Springboot. My Goal is to be a Fullstack Dev by the year 2026.
 
 # Skills
 
@@ -9,7 +9,7 @@ Hi there 👋, Started, and currently doing, an apprenticeship a an Software Eng
 
 **Frameworks:**
 
-[![My Skills](https://skillicons.dev/icons?i=angular,vuejs,nodejs,spring,bootstrap,fastapi&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,vuejs,vite,nodejs,spring,bootstrap,fastapi&theme=light)](https://skillicons.dev)
 
 **Tools:**
 
