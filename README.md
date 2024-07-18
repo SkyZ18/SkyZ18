@@ -26,7 +26,3 @@ These Frameworks are part of my projects. They are *Lightweight* and *Fast*, tha
 My Tools I use to make the Development of my Projects easier and faster. Build Tools varrie from Project to Project. Deployment is mostly done in Docker🐳, but also GCP☁ is an option.
 
 [![My Skills](https://skillicons.dev/icons?i=docker,gcp,postgresql,mysql,maven,gradle,idea,postman,stackoverflow,git&theme=light&perline=5)](https://skillicons.dev)
-
-# My Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=skyz18&&show_icons=true&title_color=0099ff&icon_color=0066cc&text_color=f2f2f2&bg_color=16191d">
