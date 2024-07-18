@@ -30,6 +30,3 @@ My Tools I use to make the Development of my Projects easier and faster. Build T
 # My Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=skyz18&&show_icons=true&title_color=0099ff&icon_color=0066cc&text_color=f2f2f2&bg_color=16191d">
-
-
-**Quote of the Day: You can teach a man to fish, but you can't teach a fish to man**
