@@ -1,4 +1,6 @@
 <h1 align="center">𝑺𝒌𝒚𝒁</h1>
+📑
+![](241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <p>
   🍀 Hey there, my name is SkyZ and I am currently on my way becoming an professional Software Engineer
@@ -10,17 +12,15 @@ My primary working fields are REST-Apis and modern Frontends aswell as Database 
 
 # Interests 🔥
 Learning:
-1. Kotlin 
-2. Java
-3. Api-principles / Coding-principles
+1. Kotlin 👾
+2. Java ☕️
+3. Api-principles / Coding-principles 📑
 
 Looking forward on learning neural-structures and basic CS.
 
 # Skills 🏆
-
-
 <p>
-  <h3>Languages I use for my work</h3>
+  <h3>Languages</h3>
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,javascript,typescript)](https://skillicons.dev)
@@ -29,10 +29,10 @@ Looking forward on learning neural-structures and basic CS.
   <h3>Frameworks</h3>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=spring,angular,vue,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,vue,bootstrap)](https://skillicons.dev)
 
 <p>
-  <h3>Tools I use</h3>
+  <h3>Tools</h3>
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=bash,docker,maven,postgres,)](https://skillicons.dev)
