@@ -14,22 +14,20 @@ My primary working fields are REST-Apis and modern Frontends aswell as Database 
 Learning:
 1. Kotlin 👾
 2. Java ☕️
-3. Api-principles / Coding-principles 📑
+3. Vue + Springboot 🍃
+4. Api-principles / Coding-principles 📑
 
 Looking forward on learning neural-structures and basic CS.
 
 # Skills 🏆
-<p>
-  <h3>Languages</h3>
-</p>
+Fullstack engineer 💪🏻 with knowledge in Cloud-Deployment, Database and Application Setups also API structures and best practises. <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,javascript,typescript)](https://skillicons.dev)
 
 <p>
-  <h3>Frameworks</h3>
+  <h3>Languages & Frameworks</h3>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=spring,vue,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,javascript,typescript,spring,vue,bootstrap)](https://skillicons.dev)
 
 <p>
   <h3>Tools</h3>
